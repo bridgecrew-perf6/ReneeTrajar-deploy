@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "./static/css/main.e75fb7ed.css",
+    "main.js": "./static/js/main.b6751e9c.js",
+    "static/media/alfaiataria.png": "./static/media/alfaiataria.f2149ec5143653b9a2f9.png",
+    "static/media/backgroundDepoimentos.png": "./static/media/backgroundDepoimentos.9fc7c5b3ffcdfaf3b846.png",
+    "static/media/background.png": "./static/media/background.c23c66bdc16022d51846.png",
+    "static/media/camisaria.png": "./static/media/camisaria.b06199617efb8a066d4e.png",
+    "static/media/terno.png": "./static/media/terno.f9cc59cd9f6a37d53e9b.png",
+    "static/media/renee.png": "./static/media/renee.cd82b5fcc5e841282f5c.png",
+    "static/media/background2.png": "./static/media/background2.e1eeaa0589dde6d4cdc3.png",
+    "static/media/nelson.svg": "./static/media/nelson.ec509d42f3988e0e43281af21dee92de.svg",
+    "static/media/Nelson2.png": "./static/media/Nelson2.22a92359a9530dcf151f.png",
+    "static/media/logo2.svg": "./static/media/logo2.4f823833d34ac0db83c90cb3f3bb6e46.svg",
+    "static/media/logo1.svg": "./static/media/logo1.17acc2a5ea56df4658799e3f2378ad7c.svg",
+    "static/media/dp2.png": "./static/media/dp2.e023f2214af3c55b85a9.png",
+    "static/media/dp3.png": "./static/media/dp3.24aac287bf878edd83a9.png",
+    "static/media/dp4.png": "./static/media/dp4.85ec358809c47ee1a0bc.png",
+    "static/media/dp1.png": "./static/media/dp1.ae254b4b7ac4d35e17a7.png",
+    "static/media/agulha.svg": "./static/media/agulha.99c1bddeb802f80980203e4a473164ac.svg",
+    "static/media/whats.svg": "./static/media/whats.0c8b8031ae8f0e772126462d419d3117.svg",
+    "static/media/maquina.svg": "./static/media/maquina.a9db79fa40caa7e8fac1bec4cfe477d7.svg",
+    "static/media/medalha.svg": "./static/media/medalha.ff4ed6ec3cb5b60fecba697ebbb84149.svg",
+    "index.html": "./index.html",
+    "static/media/menu.svg": "./static/media/menu.d8940419d88d8e9cb1a8477d2502bb0e.svg",
+    "static/media/top.svg": "./static/media/top.e43b5d4fec71b1b22972ba3897cab576.svg",
+    "main.e75fb7ed.css.map": "./static/css/main.e75fb7ed.css.map",
+    "main.b6751e9c.js.map": "./static/js/main.b6751e9c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e75fb7ed.css",
+    "static/js/main.b6751e9c.js"
+  ]
+}
